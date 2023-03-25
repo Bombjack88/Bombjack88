@@ -3,7 +3,7 @@
 - 🔭 I work with SAS, SQL, Excel VBA, R, Python e Power BI   
 - 🌱 I am learning  HTML5 e CSS3
 
-https://bit.ly/projetos_DS
+ [About me](https://bit.ly/projetos_DS)
 
 
  ##
@@ -14,5 +14,6 @@ https://bit.ly/projetos_DS
   <img align="center" alt="R" height="50" width="50" src="https://github.com/Bombjack88/Imagens/blob/main/R.png">
   <img align="center" alt="Python" height="50" width="50" src="https://github.com/Bombjack88/Imagens/blob/main/python.png">
   <img align="center" alt="Power_BI" height="50" width="50" src="https://github.com/Bombjack88/Imagens/blob/main/power_bi.png"> 
- 
 </div>
+
+##
