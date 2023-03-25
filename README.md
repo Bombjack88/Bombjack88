@@ -3,7 +3,7 @@
 - 🔭 I work with SAS, SQL, Excel VBA, R, Python e Power BI   
 - 🌱 I am learning  HTML5 e CSS3
 
- [Click here for details about my projects](https://bit.ly/projetos_DS)
+ [Click here for more details about my projects.](https://bit.ly/projetos_DS)
 
 
  ##
