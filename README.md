@@ -5,6 +5,7 @@
 
  [Click here for more details about my projects.](https://bit.ly/projetos_DS)
 
+![Daniels's github stats](https://github-readme-stats.vercel.app/api?username=Bombjack88&show_icons=true&theme=default)
 
  ##
 <div style="display: inline_block"><br>
@@ -17,5 +18,3 @@
 </div>
 
 ##
-
-![Daniels's github stats](https://github-readme-stats.vercel.app/api?username=Bombjack88&show_icons=true&theme=tokyonight)
