@@ -4,10 +4,10 @@
 - 🌱 I am learning  HTML5 e CSS3
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="SQLite" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain.svg">
-  <img align="center" alt="R" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
+  <img align="center" alt="SAS" height="60" width="60" src="https://github.com/Bombjack88/Imagens/blob/main/SAS.png">
+  <img align="center" alt="SQL" height="60" width="60" src="https://github.com/Bombjack88/Imagens/blob/main/SQL.png">
+  <img align="center" alt="ExcelVBA" height="60" width="40" src="https://github.com/Bombjack88/Imagens/blob/main/VBA.jpg">
+  <img align="center" alt="R" height="60" width="60" src="https://github.com/Bombjack88/Imagens/blob/main/R.png">
+  <img align="center" alt="Python" height="60" width="60" src="https://github.com/Bombjack88/Imagens/blob/main/python.png">
+  <img align="center" alt="Power_BI" height="60" width="60" src="https://github.com/Bombjack88/Imagens/blob/main/power_bi.png"> 
 </div>
