@@ -15,4 +15,3 @@
   <img align="center" alt="Python" height="50" width="50" src="https://github.com/Bombjack88/Imagens/blob/main/python.png">
   <img align="center" alt="Power_BI" height="50" width="50" src="https://github.com/Bombjack88/Imagens/blob/main/power_bi.png"> 
 </div>
-##
