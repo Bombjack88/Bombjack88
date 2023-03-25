@@ -1,7 +1,7 @@
 ### Hello! I am Daniel Silva
 
-- 🔭 I work with SAS, SQL, Excel VBA, R e Python  
-- 🌱 I am learning  HTML5, CSS3 e Power BI 
+- 🔭 I work with SAS, SQL, Excel VBA, R, Python e Power BI   
+- 🌱 I am learning  HTML5 e CSS3
 
 <div style="display: inline_block"><br>
   <img align="center" alt="SQLite" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain.svg">
